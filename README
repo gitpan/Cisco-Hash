@@ -1,4 +1,4 @@
-Cisco::Hash 0.01
+Cisco::Hash 0.02
 
 This Module decrypts all kind of Cisco encrypted hashes also referred
 to as type 7 passwords. Further you can encrypt any given string into

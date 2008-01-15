@@ -7,7 +7,7 @@ use warnings;
 
 require Exporter;
 
-our $VERSION = sprintf "%d.%02d", q$Revision: 0.01 $ =~ m/ (\d+) \. (\d+) /xg;
+our $VERSION = sprintf "%d.%02d", q$Revision: 0.02 $ =~ m/ (\d+) \. (\d+) /xg;
 
 use vars qw[
 						@EXPORT_OK
